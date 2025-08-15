@@ -1,0 +1,37 @@
+To demonstrate the role of VPNs in protecting privacy and securing communication by setting up and testing a VPN connection.
+
+Steps Performed:::
+
+Selected a reputable free VPN provider (e.g., ProtonVPN).
+Created a free account on the VPN provider’s website.
+Downloaded and installed the VPN client.
+Connected to a VPN server (nearest available location).
+Checked the IP address before and after connection using whatismyipaddress.com.
+Verified traffic encryption by browsing a secure website (https://example.com).
+
+Disconnected the VPN and compared browsing speed and IP address.
+Researched VPN encryption protocols (AES-256, OpenVPN, WireGuard) and their benefits.
+
+Findings:::
+
+IP address changed successfully after connecting to the VPN.
+Traffic encryption confirmed through secure browsing tests.
+Browsing speed reduced slightly due to encryption overhead.
+
+Benefits of VPN:::
+
+Encrypts internet traffic, protecting sensitive data.
+Masks IP address, improving anonymity.
+Helps bypass geo-restrictions.
+Protects against data interception on public Wi-Fi.
+
+Limitations of VPN:::
+
+May reduce browsing speed.
+Trust depends on VPN provider’s privacy policy.
+Some websites block known VPN IPs.
+
+Conclusion:::
+
+VPNs are a vital tool for privacy protection and secure communication, especially on untrusted networks.
+While they offer significant benefits, choosing a trustworthy provider and understanding their limitations is essential.
